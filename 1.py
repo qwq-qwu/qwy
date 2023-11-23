@@ -17,3 +17,6 @@ class Widget(QMainWindow):
     def pesets(self):
         pass
 
+    def sa(self):
+        pass
+
