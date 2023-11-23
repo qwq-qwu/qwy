@@ -19,4 +19,5 @@ class Widget(QMainWindow):
 
     def sa(self):
         print('ssss')
+        print(0)
 
