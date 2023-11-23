@@ -12,6 +12,8 @@ class Widget(QMainWindow):
         self.pushButton.clicked.connect(self.cu_dr)
 
     def paintEvent(self):
+        pass
 
-    def
+    def pesets(self):
+        pass
 
